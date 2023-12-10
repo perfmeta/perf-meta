@@ -1,6 +1,7 @@
 # 工具介绍
   这是一款专业的性能评测工具，致力帮助行业提供低成本高可用的性能自动化评测算法能力，帮助降低人力成本提升性能评测效率。 
-  
+ ![tutieshi_640x360_20s](https://github.com/testly/perf-meta/assets/10202802/b985667c-ac67-469e-b170-e0055b0d6dfc)
+
 # 全景图
  <img width="975" alt="image" src="https://github.com/testly/perf-meta/assets/10202802/11ea23b8-2cf4-4244-884d-a859a71b927a">
  
