@@ -10,9 +10,9 @@
 
 # 现在地址
 ### 小工具
-Mac 安装包：[链接]( https://pan.baidu.com/s/1Ml8ggC4iuK-PwqIJeTfpiQ?pwd=jzmc)
+Mac 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/mac/perf-mac-1119.jar)
 
-Windows 安装包：[链接](https://pan.baidu.com/s/1f4tMkku8xIw7K8kl8HoWNg?pwd=5ao6)
+Windows 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/windows/Perf-1119.exe)
 
 ### Java Sdk
 [demo链接](https://github.com/testly/perf-sdk-demo)
