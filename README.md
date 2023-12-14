@@ -23,11 +23,18 @@ Windows 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools
 # 使用说明
 
 ### 环境要求
-1.确保JAVA环境安装成功，推荐JDK 1.8
+1.确保JAVA环境安装成功，一定要使用官方的JDK 1.8，不要使用其他的版本。
 
 2.确保Android SDK环境安装成功，必须要求ADB环境成功安装
 
 3.确保Scrcpy安装成功（安装请自行百度）
+
+### 自检环境(热心群众本cat贡献)
+![Logo](./assets/detectionTool.png)
+- 可以检测当前工具是否运行(判断是否后台进程没了) 
+- 杀毒软件安装了哪些，是否阻止了exe运行。
+- adb和scrcpy是否配置了环境变量，位置在哪里，版本号多少
+- JDK版本号和位置(区分是否符合标准的)
 
 ### 使用步骤
 第一步： 打开工具客户端，连接测试设备
