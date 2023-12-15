@@ -14,6 +14,14 @@ Mac 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/mac
 
 Windows 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/windows/Perf-1119.exe)
 
+
+# 线上算法调试
+> 可以自己注册，也可以用测试帐号：guest(帐号) guest(密码)
+地址：http://console.smart-perf.com/app/createtask
+### 上传视频
+![image](https://github.com/testly/perf-meta/assets/10202802/79e51f00-0a4d-40c0-9b1a-f2710d64ceb8)
+
+
 ### Java Sdk
 [demo链接](https://github.com/testly/perf-sdk-demo)
 
