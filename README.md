@@ -8,7 +8,7 @@
 # 工具示例
 ![image](https://github.com/testly/perf-meta/assets/10202802/3260fc36-332d-4acd-9a4c-a43562714461)
 
-# 现在地址
+# 下载地址
 ### 小工具
 Mac 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/mac/perf-mac-1119.jar)
 
