@@ -8,34 +8,34 @@
 # 工具示例
 ![image](https://github.com/testly/perf-meta/assets/10202802/3260fc36-332d-4acd-9a4c-a43562714461)
 
-# 下载地址
+# 现在地址
 ### 小工具
-Mac 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/mac/perf-mac-1119.jar)
-
-Windows 安装包：[链接](https://github.com/testly/perf-meta/blob/main/tools/windows/Perf-1119.exe)
-
-
-# 线上算法调试
-> 可以自己注册， 注册地址：http://console.smart-perf.com/register
-调用地址：http://console.smart-perf.com/app/createtask
-### 在线DEMO测试
-![image](https://github.com/testly/perf-meta/assets/10202802/79e51f00-0a4d-40c0-9b1a-f2710d64ceb8)
-
+- 当前版本: 1.0.4 
+- 1.0.4 更新内容：简化了日志打印，添加了检查环境的功能，有JDK版本和界面用JavaFx  
+- Windows和Mac共用的Jar包：[网盘链接](https://share.weiyun.com/uCkHUssk)  
+  PS：链接过期可以联系交流群。  
+备注：目前都使用了jar包的方式，请使用官方Jdk1.8来启动。 
+启动方式
+```
+java -jar <这里请替换你存放的路径>/perf.jar
+```
+如果没有按环境启动，日志界面上面会有提示错误信息并且中断执行。
 
 ### Java Sdk
 [demo链接](https://github.com/testly/perf-sdk-demo)
 
-### Python Sdk
-[demo链接](待更新)
+### Python Sdk(待更新)
+[demo链接]()
 
 # 使用说明
 
 ### 环境要求
-1.确保JAVA环境安装成功，一定要使用官方的JDK 1.8，不要使用其他的版本。
+1.确保JAVA环境安装成功并且配置环境变量。  
+  注意:一定要使用Oracle(唯一官方)JDK版本1.8.x,x为小版本不关注，不要使用非官方的版本，会导致启动窗体问题。
 
-2.确保Android SDK环境安装成功，必须要求ADB环境成功安装
+2.ADB环境配置环境变量，在当前目录下面有adb.zip
 
-3.确保Scrcpy安装成功（安装请自行百度）
+3.确保Scrcpy安装成功，在当前目录下面有scrcpy-win64-v2.3.1.zip,Mac请自行百度。
 
 ### 自检环境(热心群众本cat贡献)
 ![Logo](./assets/detectionTool.png)
