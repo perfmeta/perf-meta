@@ -8,7 +8,15 @@
 # 工具示例
 ![image](https://github.com/testly/perf-meta/assets/10202802/3260fc36-332d-4acd-9a4c-a43562714461)
 
-# 现在地址
+# 下载地址
+
+# 线上算法调试
+> 可以自己注册， 注册地址：http://console.smart-perf.com/register
+调用地址：http://console.smart-perf.com/app/createtask
+### 在线DEMO测试
+![image](https://github.com/testly/perf-meta/assets/10202802/79e51f00-0a4d-40c0-9b1a-f2710d64ceb8)
+
+
 ### 小工具
 - 当前版本: 1.0.4 
 - 1.0.4 更新内容：简化了日志打印，添加了检查环境的功能，有JDK版本和界面用JavaFx  
@@ -20,6 +28,8 @@
 java -jar <这里请替换你存放的路径>/perf.jar
 ```
 如果没有按环境启动，日志界面上面会有提示错误信息并且中断执行。
+
+
 
 ### Java Sdk
 [demo链接](https://github.com/testly/perf-sdk-demo)
