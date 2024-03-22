@@ -12,7 +12,8 @@
 
 # 线上算法调试
 > 可以自己注册， 注册地址：http://console.smart-perf.com/register
-调用地址：http://console.smart-perf.com/app/createtask
+
+试用用地址：http://console.smart-perf.com/app/createtask
 ### 在线DEMO测试
 ![image](https://github.com/testly/perf-meta/assets/10202802/79e51f00-0a4d-40c0-9b1a-f2710d64ceb8)
 
